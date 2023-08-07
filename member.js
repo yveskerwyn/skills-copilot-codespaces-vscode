@@ -1,4 +1,4 @@
-function skillsmember() {
+function skillsMember() {
     var skills = ['html', 'css', 'js', 'php', 'mysql'];
     var member = {
         name: 'John',
