@@ -12,3 +12,4 @@ function skillsmember() {
     console.log(member.skills[1]);
     console.log(member.address.city);
 }
+
