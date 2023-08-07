@@ -6,7 +6,7 @@ function skillsmember() {
         skills: skills,
         address: {
             city: 'Ha Noi',
-            country: 'Viet Nam'
+            country: 'Vietnam'
         }
     };
     console.log(member.skills[1]);
